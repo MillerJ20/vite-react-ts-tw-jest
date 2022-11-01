@@ -68,5 +68,5 @@ npm run format
 ### Test
 
 ```bash
-pnpm run test
+npm run test
 ```
