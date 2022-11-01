@@ -20,7 +20,7 @@ Hi Team JAMIs! This is boilerplate config code I wrote/stole that should serve w
 Install [Degit (Made by the creator of Svelte, and Rollup (Vite uses rollup! Wawaweewoo!))](https://github.com/Rich-Harris/degit)
 
 ```bash
-  npm i -g degit
+npm i -g degit
 ```
 
 Create the project.
